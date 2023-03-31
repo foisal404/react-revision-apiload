@@ -1,0 +1,22 @@
+.food{
+    width: 300px;
+    /* padding: 10px ; */
+    background-color: aliceblue;
+    margin: 10px auto;
+    border-radius: 10px;
+    
+}
+.food-title{
+    color: black;
+    margin-left: 10px;
+}
+.food img{
+    width: 280px;
+    height: 280px;
+    margin: 10px 10px;
+    padding: 0;
+    border-radius: 10px;
+}
+.add-btn{
+    width: 100%;
+}

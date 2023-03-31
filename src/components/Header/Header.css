@@ -1,0 +1,12 @@
+.Header{
+    display: flex;
+    padding: 10px 30px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #669bbc;
+}
+.list-service a{
+    text-decoration: none;
+    color: white;
+    margin-right: 50px;
+}
